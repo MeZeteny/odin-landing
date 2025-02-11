@@ -34,8 +34,8 @@ a {
     font-size: 18px;
 }
 
-img {
-    width: 300px;
+.hero-body img {
+    width: 350px;
 }
 
 .logo {
