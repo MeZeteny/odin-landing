@@ -135,3 +135,43 @@ a {
     display: flex;
     justify-content: flex-end;
 }
+
+.call-to-action {
+    padding: 100px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-container {
+    background-color: #3882f6;
+    width: 1000px;
+    height: 100px;
+    border-radius: 8px;
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cta-text {
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cta-maintext {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.signup-cta {
+    border-radius: 8px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    color: #E5E7EB;
+    background-color: #3882f6;
+    font-weight: 700;
+    width: 100px;
+    height: 32px;
+}
