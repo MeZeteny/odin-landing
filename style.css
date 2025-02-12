@@ -175,3 +175,13 @@ a {
     width: 100px;
     height: 32px;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
